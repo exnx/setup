@@ -18,4 +18,11 @@ for more details.
 // my own new changes
 
 
+<<<<<<< HEAD
 // branch 1 changes
+=======
+
+
+
+// branch2 changes
+>>>>>>> branch2
